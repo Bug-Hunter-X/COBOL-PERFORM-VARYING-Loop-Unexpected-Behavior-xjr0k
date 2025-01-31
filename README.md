@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in COBOL related to the PERFORM VARYING loop.  The provided code snippet shows a simple loop that unexpectedly produces incorrect results under certain circumstances, particularly when dealing with larger numbers or more complex conditions within the loop. The solution shows how to address the issue and achieve the intended behavior.
